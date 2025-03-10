@@ -1,1 +1,1 @@
-# FinalPROJECT
+The data includes a review paper about "Price dynamics, influential factors and forecast in used cellphones." Such analysis involves topics like price determinants, trends in the market and predictive modelling techniques using methods such as regression analysis and correlation. It talks about resale prices factors, how brands depreciate over time, as well as efforts to make the market transparent. Data sources for the set are OLX and eBay, based on the citations to academic literature found in researches. 
